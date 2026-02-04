@@ -96,6 +96,9 @@ The Power BI dashboard enables stakeholders to:
 ✅ Track customer satisfaction  
 ✅ Evaluate payment method trends  
 
+
+<img width="1824" height="913" alt="Screenshot 2026-02-04 235929" src="https://github.com/user-attachments/assets/21eac553-ee31-45e4-846b-4db0099f6ad3" />
+
 > ⚠️ *Download the `.pbix` file to explore the interactive dashboard.*
 
 ---
